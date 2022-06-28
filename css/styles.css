@@ -425,8 +425,6 @@ img {
   text-transform: uppercase;
   color: var(--hero-title-color);
 }
-.soc-list-link {
-}
 
 .soc-list-link:hover,
 .soc-list-link:focus {
